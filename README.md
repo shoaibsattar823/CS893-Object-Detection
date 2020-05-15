@@ -15,7 +15,7 @@ In this project, I am doing object detection on [SIMS](url) using different obje
 (Modified the original implementation at https://github.com/fizyr/keras-retinanet for this dataset)
 
 ###### Model Diagram
-![model plot](retinanet_architecture.jpg)
+![model plot](retinanet_architecture.JPG)
 
 ###### Training Settings
 * Optimizer: Adam
